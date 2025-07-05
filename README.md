@@ -1,4 +1,4 @@
-# 🌐 Mars.Dev – Responsive Portfolio Website
+# 🌐 Marmik.Dev – Responsive Portfolio Website
 
 Welcome to my personal portfolio! This is a fully responsive website built using **HTML**, **CSS**, and **JavaScript**, showcasing my skills and projects as a frontend developer.
 
@@ -45,9 +45,9 @@ Welcome to my personal portfolio! This is a fully responsive website built using
 
 ## 📬 Contact
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [github.com/yourname](https://github.com/yourname)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- GitHub: [MarmikGandhi(https://github.com/MarmikGandhi)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
 ---
 
