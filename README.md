@@ -46,7 +46,7 @@ Welcome to my personal portfolio! This is a fully responsive website built using
 ## 📬 Contact
 
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
-- GitHub: [MarmikGandhi(https://github.com/MarmikGandhi)
+- GitHub: [MarmikGandhi](https://github.com/MarmikGandhi)
 - LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
 ---
