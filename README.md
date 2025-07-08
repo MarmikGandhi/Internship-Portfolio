@@ -1,6 +1,6 @@
 # 🌐 Marmik.Dev – Responsive Portfolio Website
 
-Welcome to my personal portfolio! This is a fully responsive website built using **HTML**, **CSS**, and **JavaScript**, showcasing my skills and projects as a frontend developer.
+Welcome to my personal portfolio! Built as my internship task. 
 
 ---
 
@@ -36,13 +36,6 @@ Welcome to my personal portfolio! This is a fully responsive website built using
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots after deployment or locally with:
-> `![Screenshot](url-or-path-to-image)`
-
----
-
 ## 📬 Contact
 
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
@@ -57,13 +50,6 @@ Welcome to my personal portfolio! This is a fully responsive website built using
 - Adding interactivity with **JavaScript**
 - Managing **light/dark mode** with CSS variables and JS
 - Structuring a personal portfolio for performance-based reviews
-
----
-
-## 🌐 Live Demo
-
-> Coming soon on Netlify or GitHub Pages  
-> (e.g. `https://yourname.github.io/portfolio/`)
 
 ---
 
