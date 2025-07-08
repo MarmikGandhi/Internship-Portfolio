@@ -1,6 +1,6 @@
 # 🌐 Marmik.Dev – Responsive Portfolio Website
 
-Welcome to my personal portfolio! Built as my internship task. 
+Welcome to my personal portfolio! Built as my internship task. This is a fully responsive website built using HTML, CSS, and JavaScript, showcasing my skills and projects as a frontend developer.
 
 ---
 
