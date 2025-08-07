@@ -40,7 +40,7 @@ Welcome to my personal portfolio! Built as my internship task. This is a fully r
 
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
 - GitHub: [MarmikGandhi](https://github.com/MarmikGandhi)
-- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi/)
 
 ---
 
